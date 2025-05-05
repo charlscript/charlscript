@@ -5,7 +5,7 @@
 </div>  
 <h3 align="center">Whoami?</h3>
 <p>
-  Graduando de Ciência da Computação, entusiasta de Linux, OpenSource, I.A e machine learning. Pythonista.
+  Graduando de Engenharia de Software, entusiasta de Linux, OpenSource, I.A e machine learning. Pythonista.
 
 </p>
 
